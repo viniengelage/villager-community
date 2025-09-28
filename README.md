@@ -22,5 +22,5 @@ Coloquei aqui algumas cópias/resumos das seções mais úteis da documentação
 Esses arquivos são snapshots locais do site oficial; consulte https://docs.neoforged.net/ para o conteúdo completo e sempre atual.
 Roadmap
 
-1 - [] - Ao gerar um villager, ele tenha um nome e um genero (Male, Female)
-2 - [] - Villager ao conseguir uma profissão, procure uma cama não usada para ser sua casa
+1 - [x] - Ao gerar um villager, ele tenha um nome e um genero (Male, Female)
+2 - [x] - Villager ao conseguir uma profissão, procure uma cama não usada para ser sua casa
