@@ -1,0 +1,13 @@
+{
+  "itemGroup.villagerscommunity": "Example Mod Tab",
+  "block.villagerscommunity.example_block": "Example Block",
+  "item.villagerscommunity.example_item": "Example Item",
+
+  "villagerscommunity.configuration.title": "Villagers Community Configs",
+  "villagerscommunity.configuration.section.villagerscommunity.common.toml": "Villagers Community Configs",
+  "villagerscommunity.configuration.section.villagerscommunity.common.toml.title": "Villagers Community Configs",
+  "villagerscommunity.configuration.items": "Item List",
+  "villagerscommunity.configuration.logDirtBlock": "Log Dirt Block",
+  "villagerscommunity.configuration.magicNumberIntroduction": "Magic Number Text",
+  "villagerscommunity.configuration.magicNumber": "Magic Number"
+}

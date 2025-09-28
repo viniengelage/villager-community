@@ -1,0 +1,93 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Client",
+      "presentation": {
+        "group": "Mod Development - villager-community",
+        "order": 0
+      },
+      "projectName": "villager-community",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\clientRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003dvillagerscommunity%%C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Data",
+      "presentation": {
+        "group": "Mod Development - villager-community",
+        "order": 1
+      },
+      "projectName": "villager-community",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\dataRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003dvillagerscommunity%%C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "GameTestServer",
+      "presentation": {
+        "group": "Mod Development - villager-community",
+        "order": 2
+      },
+      "projectName": "villager-community",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\gameTestServerRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003dvillagerscommunity%%C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Server",
+      "presentation": {
+        "group": "Mod Development - villager-community",
+        "order": 3
+      },
+      "projectName": "villager-community",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\serverRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\build\\moddev\\serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003dvillagerscommunity%%C:\\Users\\Vinicios Engelage\\Desktop\\villager-community\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    }
+  ]
+}
